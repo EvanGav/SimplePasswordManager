@@ -1,5 +1,3 @@
-"""Dérivation de clé, hachage et vérification cryptographique."""
-
 import base64
 import hmac
 import os
