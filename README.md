@@ -6,6 +6,7 @@ Quick note : <br>
 - The app is in french, I kinda use it for certain non important passwords
 - If you use this app, keep the password.json file in a safeplace
 - Be sure you know the password and keep you set and never forget it (or store them in the safest place you know)
+- Do NOT use it for important passwords, it's not made for that
 ---
 
 ## Features
