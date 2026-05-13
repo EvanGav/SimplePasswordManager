@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Getting Started
 
 ```bash
-cd GestionnaireMDP
+cd ...
 python main.py
 ```
 
